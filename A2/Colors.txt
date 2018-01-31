@@ -30,7 +30,7 @@ rgb(83,32,182)
 	c3: (12)(16) + 3 = 195
 rgb(124,83,195)
 
-Task 2 (RGB --> HEX)
+Task 2 (RGB --> HEX):
 
 1. rgb(22,2,213)
 	22/16 = 1, (.375)(16) = 6		=16
@@ -62,6 +62,9 @@ Task 2 (RGB --> HEX)
 	124/16 = 7, (.75)(16) = 12		=7c
 #0c7b7c
 
+Task 3 (CSS Properties):
 
-
-
+1. <h1 style="background-color:#7018f1;">AME 470 </h1>
+2. <h2 style="border: 4px solid color: rgb(30,154,141);">hello </h2>
+3. <p style="color: #1602d5;"> Color Convert </p>
+4. <h1 style="border: 6px dotted rgb(83,32,182);">Katie </h1>
